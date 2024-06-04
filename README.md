@@ -1,4 +1,5 @@
 💫 About Me:
+
 Hey there! I'm Ahmed Abdullah ⚡️. Proud Hafiz-e-Quran 📖 and currently rocking my third semester in BS Computer Science at FAST-NUCES 🏫.<br><br>Balancing my spiritual journey with my tech aspirations, I've mastered discipline and time management. Memorizing the Quran gives me a unique edge in my studies and life.<br><br>At FAST-NUCES, I’m diving deep into programming, data structures, algorithms, and software engineering 💻. My goal? To ace computer science and drive innovative solutions that make a real difference 🌍.<br><br>Beyond the classroom, I’m all about coding projects, workshops, and tech events 🚀. Staying ahead in the game and constantly learning is my jam. I'm committed to excellence and making a positive impact, all while staying true to my values as a Hafiz-e-Quran 🕋.<br><br>🌱 I’m currently learning DSA front and Back END<br>💬 Ask me about 🌐 Curious about the future of web development?<br>📫 How to reach me ahmed794e@gmail.com<br>🌳 Fun Fact:  I'm on a mission to save trees by embracing a homework-free lifestyle!
 
 ----------------------------------------![Random GIF](https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif)
@@ -24,4 +25,3 @@ Hey there! I'm Ahmed Abdullah ⚡️. Proud Hafiz-e-Quran 📖 and currently roc
 
 ### 😂 Meme of Day
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
