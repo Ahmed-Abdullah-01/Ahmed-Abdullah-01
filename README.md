@@ -31,7 +31,7 @@ Beyond the classroom, I’m all about coding projects, workshops, and tech event
   <a href="https://www.instagram.com/eem.ahmed/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://tinyurl.com/yy3zvjf5"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.quora.com/profile/Ahmed-Abdullah-933"><img src="https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white" alt="Quora"/></a>
-  <a href="https://reddit.com/user/u/eem_ahmed"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" alt="Reddit"/></a>
+  <a href="https://www.reddit.com/u/eem_ahmed/s/tW3vJDkI98"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" alt="Reddit"/></a>
   <a href="https://stackoverflow.com/users/24872094"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="Stack Overflow"/></a>
   <a href="https://x.com/ahmed_794x"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X"/></a>
 </p>
