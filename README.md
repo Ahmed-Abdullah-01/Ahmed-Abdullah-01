@@ -20,8 +20,9 @@ Beyond the classroom, I’m all about coding projects, workshops, and tech event
 ## 📈 Profile Views:
 <div align="right">
   <p align="left">
-    <!-- random-gif -->
-  </p>
+  <img src="https://komarev.com/ghpvc/?username=Ahmed-Abdullah-01&style=flat-square&color=red" alt="Profile Views"/>
+</p>
+  <img src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif" width="400px"/>  
 </div>
 
 ## 🌐 Socials:
