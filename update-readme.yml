@@ -1,0 +1,37 @@
+name: Update README with Random GIF
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Runs every hour, adjust as needed
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Choose Random GIF
+      id: random-gif
+      run: |
+        gifs=("https://komarev.com/ghpvc/?username=Ahmed-Abdullah-01&style=flat-square&color=red" \
+              "https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif" \
+              "https://camo.githubusercontent.com/905b96edece53a982ed9dd6870ce61ad6ee85d6598755f88a859e0322a70842f/68747470733a2f2f6d656469612e74656f722e636f6d2f726550446644574f33586f41414141642f6861636b696e672e676966")
+        random_gif=${gifs[$RANDOM % ${#gifs[@]}]}
+        echo "::set-output name=gif::$random_gif"
+
+    - name: Update README
+      run: |
+        sed -i "s|<!-- random-gif -->|<img src='${{ steps.random-gif.outputs.gif }}' alt='Random GIF'/>|" README.md
+
+    - name: Commit changes
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add README.md
+        git commit -m 'Update README with a random GIF'
+        git push
