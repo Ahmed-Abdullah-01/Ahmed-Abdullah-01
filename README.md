@@ -10,8 +10,11 @@ At FAST-NUCES, I’m diving deep into programming, data structures, algorithms, 
 Beyond the classroom, I’m all about coding projects, workshops, and tech events 🚀. Staying ahead in the game and constantly learning is my jam. I'm committed to excellence and making a positive impact, all while staying true to my values as a Hafiz-e-Quran 🕋.
 
 🌱 Currently delving into the world of artificial intelligence and machine learning, eager to unravel their potential across diverse applications.  
+
 💬 Have burning questions about the future of AI and ML? Let's dive deep into the conversation!  
+
 📫 Reach out to me at ahmed794e@gmail.com to share your thoughts and inquiries.
+
 🌳 Fun Fact: I'm on a mission to save trees by embracing a homework-free lifestyle!
   </div>
 </div>
