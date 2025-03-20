@@ -4,7 +4,7 @@
 Hey there! I'm **Ahmed Abdullah** ⚡️. Proud **Hafiz-e-Quran** 📖 and currently rocking my fourth semester in **BS Computer Science** at **FAST-NUCES** 🏫.
 
 Balancing my spiritual journey with my tech aspirations, I've mastered discipline and time management. Memorizing the Quran gives me a unique edge in my studies and life.
-
+ 
 At FAST-NUCES, I’m diving deep into programming, data structures, algorithms, and software engineering 💻. My goal? To ace computer science and drive innovative solutions that make a real difference 🌍.
 
 Beyond the classroom, I’m all about coding projects, workshops, and tech events 🚀. Staying ahead in the game and constantly learning is my jam. I'm committed to excellence and making a positive impact, all while staying true to my values as a Hafiz-e-Quran 🕋.
