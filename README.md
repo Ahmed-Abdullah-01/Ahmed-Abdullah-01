@@ -1,7 +1,7 @@
 # 💫 About Me:
 <div style="display: flex; align-items: center; justify-content: space-between;">
 <div>
-Hey there! I'm **Ahmed Abdullah** ⚡️. Proud **Hafiz-e-Quran** 📖 and currently rocking my third semester in **BS Computer Science** at **FAST-NUCES** 🏫.
+Hey there! I'm **Ahmed Abdullah** ⚡️. Proud **Hafiz-e-Quran** 📖 and currently rocking my fourth semester in **BS Computer Science** at **FAST-NUCES** 🏫.
 
 Balancing my spiritual journey with my tech aspirations, I've mastered discipline and time management. Memorizing the Quran gives me a unique edge in my studies and life.
 
